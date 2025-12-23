@@ -118,17 +118,24 @@ Custom tools to:
 
 ## 🧠 Leadership & Context
 
+## 🧠 Leadership & Context
+
+- CEO – **Alpha Technology plc**
+- IT Manager – **MSA Business Group**
+- IT Coordinator – **Ammarr PP Bag Manufacturing**
+- IT Regional Manager – **Mulie Animal Feed Manufacturing**
 - Founder / Technical Lead – **Sipora Food Stuff LLC**
 - Experience aligning **technology strategy with business goals**
 - Comfortable operating across **technical and non-technical stakeholders**
 - Strong ownership mindset from design to deployment
+
 
 ---
 
 ## 🎓 Education
 
 - Computer Engineering  
-- Civil Engineering  
+  
 
 ---
 
