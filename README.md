@@ -70,6 +70,29 @@ A modular ERP platform designed for real-world business operations, covering:
 
 **Tech Stack:** React, TypeScript, Node.js, Express, MySQL  
 **Focus:** Scalability, security, and business alignment
+## 📦 Selected Projects
+
+### 🧩 Enterprise ERP & Business Systems (Private Repositories)
+Architected and implemented multiple production-grade systems, including:
+
+- **Campus Synergy Dashboard** – ERP-style dashboards for academic and operational management
+- **Hospitalia Flow** – Hospital workflow and operations management system
+- **CareFlow Hospital Nexus** – Clinical and administrative process automation platform
+- **Selamb** – Internal enterprise system for business operations
+- **Bingo Voice Caller** – Voice-enabled system integration tool
+
+**Tech Stack:** TypeScript, React, Node.js, Express, MySQL  
+**Status:** Private (production / client systems)
+
+---
+
+### 🏫 School Management System (Public)
+A public project demonstrating ERP-style concepts such as:
+- User and role management
+- Academic workflows
+- Basic reporting
+
+This repository represents my **architecture, coding style, and system design approach**.
 
 ---
 
